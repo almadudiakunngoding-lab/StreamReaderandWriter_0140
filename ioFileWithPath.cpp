@@ -23,3 +23,5 @@ int main()
     //looping untuk menulis isi file
     while (true)
     {
+        
+        cout << "- ";
